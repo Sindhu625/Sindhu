@@ -5,7 +5,6 @@ def counter():
     counter.count += 1
     print("Called", counter.count, "times")
 
-# Using it:
 counter()  
 counter()  
 counter()
