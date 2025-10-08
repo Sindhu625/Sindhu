@@ -1,0 +1,44 @@
+SQL,MySQL,PL/SQL,DB2,NoSQL.?
+
+1.SQL (Structured Query Language):
+
+A language used to manage and manipulate databases.
+
+It helps you create, read, update, and delete data (called CRUD operations).
+
+Works with relational databases (data stored in tables).
+
+2. MySQL:
+
+A database management system (DBMS) that uses SQL.
+
+Developed by Oracle (open-source).
+
+Stores data in tables and rows.
+
+Commonly used in web apps (like WordPress, Django, PHP apps).
+
+3. PL/SQL (Procedural Language/SQL):
+
+An extension of SQL used in Oracle databases.
+
+Adds programming features (like loops, conditions, and variables).
+
+Lets you write stored procedures and functions inside the database.
+
+4. DB2:
+
+A database system developed by IBM.
+
+Similar to MySQL or Oracle DB — stores data using SQL.
+
+Mostly used in large enterprises and banking systems.
+
+5. NoSQL (Not Only SQL):
+
+Used for non-relational databases (data not stored in tables).
+
+Stores data in forms like JSON, key-value pairs, graphs, or documents.
+
+Designed for high speed, scalability, and flexibility.
+

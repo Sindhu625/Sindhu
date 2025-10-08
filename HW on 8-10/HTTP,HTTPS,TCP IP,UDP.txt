@@ -1,0 +1,45 @@
+HTTP,HTTPS,TCP IP,UDP.?
+
+1. HTTP (Hypertext Transfer Protocol):
+
+Used for transferring web pages between a browser and a web server.
+
+When you visit a website like http://example.com, your browser uses HTTP to get the page.
+
+It’s not secure — data is sent as plain text.
+
+Works on port 80.
+
+2. HTTPS (Hypertext Transfer Protocol Secure):
+
+It’s HTTP + SSL/TLS encryption (secure version of HTTP).
+
+Protects data like passwords, card details, etc. from hackers.
+
+Used by almost all modern websites.
+
+Works on port 443.
+
+3. TCP/IP (Transmission Control Protocol / Internet Protocol):
+
+The foundation of the Internet.
+
+It defines how data is sent and received between computers.
+
+TCP ensures reliable delivery — data arrives in correct order.
+
+IP handles addressing — decides where to send the data.
+
+4. UDP (User Datagram Protocol):
+
+A faster but less reliable protocol than TCP.
+
+Doesn’t check if data reaches or arrives in order.
+
+Used where speed matters more than accuracy, like:
+
+Online gaming
+
+Video streaming
+
+Voice calls
