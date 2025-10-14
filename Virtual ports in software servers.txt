@@ -1,0 +1,27 @@
+Virtual ports in software servers.?
+
+In software servers (like web servers, database servers, etc.), there aren’t a fixed number of virtual ports — instead, they are defined by the TCP/IP protocol, which allows:
+
+🔹 65,536 ports in total (0 to 65,535)
+
+These are virtual ports, used by software to send and receive data through the network.
+
+🔹 Port ranges:
+
+0–1023 → Well-known ports (used by common services)
+
+Example:
+
+HTTP → port 80
+
+HTTPS → port 443
+
+FTP → port 21
+
+SSH → port 22
+
+1024–49151 → Registered ports (used by user or vendor applications)
+
+49152–65535 → Dynamic/Private ports (used temporarily for client connections)
+
+So, in total, a software server can use any of the 65,536 virtual ports, depending on configuration — but typically only a few specific ones are open for particular services.
