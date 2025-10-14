@@ -1,0 +1,21 @@
+Responsive web designing.?
+
+Responsive Web Designing (RWD) is a web design approach that makes websites look and work well on all devices — desktops, tablets, and mobile phones — by automatically adjusting layout, images, and content.
+
+🔹 In simple terms:
+
+Responsive design means the website “responds” to the screen size and orientation of the user’s device.
+
+🔹 Key Features:
+
+Flexible Layouts – Use of fluid grids that resize elements proportionally.
+
+Responsive Images – Images scale and fit within the screen.
+
+Media Queries – CSS rules that apply different styles for different screen sizes.
+
+Mobile-first Design – Designing for small screens first, then expanding for larger screens.
+
+🔹 Example:
+
+If you open a website on your phone and it fits perfectly without zooming or scrolling sideways — that’s responsive design.
