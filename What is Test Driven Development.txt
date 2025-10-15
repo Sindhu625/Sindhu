@@ -1,0 +1,27 @@
+What is Test Driven Development.?
+
+Test Driven Development (TDD) is a software development approach where you write tests before writing the actual code.
+
+Process (TDD Cycle):
+
+1.Write a test → for a small function or feature.
+
+2.Run the test → it fails (since the code doesn’t exist yet).
+
+3.Write code → just enough to make the test pass.
+
+4.Run tests again → ensure all pass.
+
+5.Refactor → clean up the code while keeping tests passing.
+
+This cycle is called Red → Green → Refactor.
+
+Benefits:
+
+Fewer bugs
+
+Cleaner and more reliable code
+
+Easier refactoring
+
+Better design
