@@ -1,0 +1,23 @@
+What is Behaviour Driven Development.?
+
+BDD (Behavior Driven Development) is a software development approach that focuses on how the software should behave — written in a way that non-technical people can understand.
+
+Definition:
+
+BDD extends Test Driven Development (TDD) by writing tests in natural language (plain English) that describes user behavior.
+
+Format:
+
+BDD uses the Gherkin syntax:
+
+Given <some context>
+When <an action happens>
+Then <expect a result>
+
+Tools:
+
+Python → behave, pytest-bdd
+
+Java → Cucumber
+
+JavaScript → Jest Cucumber, Cypress
