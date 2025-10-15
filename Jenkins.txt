@@ -1,0 +1,33 @@
+Jenkins.?
+
+Jenkins is an open-source automation tool used for Continuous Integration (CI) and Continuous Delivery (CD) in software development.
+
+Purpose:
+
+Automates the process of building, testing, and deploying code.
+
+Helps developers detect errors early and deliver software faster.
+
+How it works:
+
+1.Developer pushes code to GitHub/GitLab.
+
+2.Jenkins automatically:
+
+  Pulls the new code
+
+  Builds (compiles) the project
+
+  Runs unit tests
+
+  Deploys it to a server if tests pass
+
+Key Features:
+
+Open-source and free
+
+Supports plugins for many tools (Git, Docker, Maven, etc.)
+
+Works with multiple programming languages
+
+Provides dashboards to monitor builds
