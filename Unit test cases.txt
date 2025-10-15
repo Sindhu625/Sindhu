@@ -1,0 +1,21 @@
+Unit test cases.?
+
+Unit test cases are small automated tests written by developers to check if individual parts (functions, classes, or modules) of a program work correctly.
+
+Purpose:
+
+Find bugs early
+
+Ensure code works as expected
+
+Make future changes safe
+
+Frameworks:
+
+Python → unittest, pytest
+
+Java → JUnit
+
+JS → Jest
+
+Good test: simple, fast, independent, clear result.
