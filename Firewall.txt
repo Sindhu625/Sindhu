@@ -1,0 +1,33 @@
+Firewall.?
+
+A firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules. Its main job is to protect your computer or network from unauthorized access while allowing legitimate communication.
+
+Key Points About Firewalls:
+
+1.Traffic Filtering
+
+Examines data packets traveling to and from a network.
+
+Decides whether to allow or block traffic based on rules.
+
+2.Types of Firewalls
+
+Network Firewalls: Protect entire networks (hardware-based or software-based).
+
+Host-based Firewalls: Protect individual devices (like Windows Defender Firewall).
+
+Next-Generation Firewalls (NGFW): Include advanced features like intrusion detection, deep packet inspection, and application awareness.
+
+3.Functions
+
+Block unauthorized access from hackers.
+
+Prevent malware from entering a network.
+
+Control application usage (e.g., block certain websites or apps).
+
+Monitor traffic for suspicious activity.
+
+4.Deployment
+
+Can be hardware (physical device between network and internet) or software (installed on computers or servers).
