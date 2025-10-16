@@ -1,0 +1,32 @@
+Variable Length Parameters.?
+
+These are parameters in a function that can take any number of arguments — not a fixed number.
+
+They are used when the exact number of inputs to a function is unknown or can vary each time the function is called.
+
+In Python, we do this using:
+
+*args → for any number of positional arguments
+
+**kwargs → for any number of keyword arguments
+
+These parameters make functions more flexible and reusable, allowing them to handle different numbers and types of arguments dynamically.
+
+Example 1 — Using *args
+
+def add_numbers(*args):
+    total = 0
+    for num in args:
+        total += num
+    print("Total:", total)
+
+add_numbers(10, 20)
+add_numbers(5, 10, 15, 20)
+
+Example 2 — Using **kwargs
+
+def print_details(**kwargs):
+    for key, value in kwargs.items():
+        print(f"{key} : {value}")
+
+print_details(name="Sindhu", age=22, city="Hyderabad")
