@@ -1,0 +1,34 @@
+Model View Controller(MVC)?
+
+1. Model (Data Part):
+
+The Model handles the data and logic of the application.
+
+It talks to the database and stores, updates, or retrieves data.
+
+Example: A “User” model stores user details like name and email.
+
+2. View (Display Part):
+
+The View is what the user sees — the interface or output.
+
+It shows the data from the Model in a readable way.
+
+Example: A webpage or app screen that displays the user’s name and profile picture.
+
+3. Controller (Manager Part):
+
+The Controller connects the Model and View.
+
+It takes input from the user, tells the Model what to do, and then updates the View.
+
+Example: When you click “Save,” the Controller tells the Model to save data, then refreshes the View.
+
+Example:
+When you fill a form and click “Submit”:
+
+The Controller takes your input.
+
+The Model saves it to the database.
+
+The View shows a success message.
