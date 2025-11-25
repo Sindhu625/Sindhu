@@ -1,0 +1,34 @@
+What is WSGI.?
+WSGI (Web Server Gateway Interface)
+is the old standard for Python web applications.
+
+Simple Words:
+WSGI allows Python web apps to talk to a web server (like Gunicorn or uWSGI).
+
+But WSGI has a limitation:
+
+1.It can handle only one request at a time per worker
+2.It does NOT support asynchronous (async/await) code
+3.Good for simple or traditional web apps
+
+Used by:
+Flask
+Django (older versions)
+
+What is ASGI?
+ASGI (Asynchronous Server Gateway Interface)
+is the modern version of WSGI.
+
+Simple Words:
+ASGI allows Python apps to handle many requests at the same time using async/await.
+
+Supports:
+1.Asynchronous apps
+2.WebSockets
+3.Real-time communication
+4.Faster, more scalable APIs
+
+Used by:
+1.FastAPI
+2.Django 3+ (via ASGI)
+3.Starlette
